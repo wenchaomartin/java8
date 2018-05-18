@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+*.iml
+
+target/
+
+*.bak
+
+.idea
